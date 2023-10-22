@@ -2,7 +2,7 @@
 
 Demo link(youtube): https://youtu.be/YmJeZ7NKUIE  
 
-This is a Anuglar + nodejs powered single page web app. Please contact me if you are interested in this app and the source code. The features are as follows:  
+This is a Anuglar + nodejs powered single page web app. Please contact me(weichieh@usc.edu) if you are interested in this app and the source code. The features are as follows:  
   
 1.Users can type any keywords and the wep app will return suggestion which is a autocomplete feature.  
 2.Integrate 6 APIs: Ticketmaster, Twitter, Facebook, Spotify, Google Map, IP Info.  
